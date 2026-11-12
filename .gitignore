@@ -1,0 +1,20 @@
+# Only publication files belong in this repository; local source documents,
+# manuscript drafts, caches, and temporary verification folders remain local.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/DATA_GUIDE.md
+!/requirements.txt
+!/chapter3_simulations.py
+!/make_figures.py
+!/verify_results.py
+!/SHA256SUMS.txt
+!/chapter3_results/
+!/figures/
+!/downloads/
+!/legacy/
+__pycache__/
+*.py[cod]
+.venv/
+~$*
